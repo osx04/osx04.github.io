@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/osx04
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://osx04.xyz
+  * I am osx04 (https://keybase.io/osx04) on keybase.
+  * I have a public key ASAz2mVQ2AdcHLOazD_bSsLRO1T0LMpGbTwh3tvICbgXjwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012033da6550d8075c1cb39acc3fdb4ac2d13b54f42cca466d3c21dedbc809b8178f0a",
+      "host": "keybase.io",
+      "kid": "012033da6550d8075c1cb39acc3fdb4ac2d13b54f42cca466d3c21dedbc809b8178f0a",
+      "uid": "0eed24d435626fa00cf80650f07c9219",
+      "username": "osx04"
+    },
+    "merkle_root": {
+      "ctime": 1641098366,
+      "hash": "7e2902a13dda72672aa66ae19e5fca1fd94e9718366bd068b60a7dbda143539a4eec8290f04eb1a2eff513ddebd36b8f0d5b5929d02c80dc77e06e1214d99f84",
+      "hash_meta": "d9102a253e9db387cbdcc2201c2e289d79fc9b2dcfb73328d5fbb327f451aef2",
+      "seqno": 21543980
+    },
+    "service": {
+      "entropy": "//5cZ8bxQwfYdyxyNIz6fegQ",
+      "hostname": "osx04.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1641098399,
+  "expire_in": 504576000,
+  "prev": "2cda737f39373532cd1921c4a24a719d149b2b154cbbdb7496e6946d3036069b",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgM9plUNgHXByzmsw/20rC0TtU9CzKRm08Id7byAm4F48Kp3BheWxvYWTESpcCBcQgLNpzfzk3NTLNGSHEokpxnRSbKxVMu9t0luaUbTA2BpvEIDD5APh+Od2QLdKiCp1RHv/j+BN/gqwbuPiRja8YkAfHAgHCo3NpZ8RAiAhOvTeepR6kG/yg+Mw/cE+mmkt88n+pXJ0L3ams+2hQBUTMBSnzqAr3zRX85R20prp1A1WULhAIWhpOgXoEDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOTah8+KJttSoaEqIu1TcBIE5Q43Jgsh9rEm8u8yX/5Co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/osx04
+
+==================================================================
