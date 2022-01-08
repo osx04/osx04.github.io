@@ -15,7 +15,6 @@ permalink: /about/
       flex: 1 1 20%;
   }
 </style>
-[Proof that I am me via Keybase](https://keybase.io/osx04)
 My name's osx04. I'm a grade 12 student in Nova Scotia, Canada with a passion for creating software. I've been coding since I was 11 years old and fell in love with the freedom to create my own websites and software.
 
 Next year, I will be pursuing a Bachelor's degree in Applied Computer Science at [Acadia University](https://www.openstreetmap.org/node/2861216463). I'm excited for what the future has in store and I can't wait to share what I build next.
@@ -30,3 +29,5 @@ In the meantime, here's some pictures of my cat (Hope!) 🐈
     <img class="gallery-item" src="/assets/images/hope/IMG_0053-resized.JPG">
     <img class="gallery-item" src="/assets/images/hope/IMG_0439-resized.jpg">
 </div>
+
+[Proof that I am me via Keybase](https://keybase.io/osx04)

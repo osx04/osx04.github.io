@@ -25,8 +25,3 @@ permalink: /projects/
   </li>
 {% endfor %}
 </ul>
-
-<!-- # Gists
-## Homework Hub Helper
-Greasemonkey script adding a download button to videos on NS Homework Hub
-{% gist d79ca6b48fbe635e2b2f1e95c387061f %} -->
